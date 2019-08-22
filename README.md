@@ -13,6 +13,8 @@ The purpose of this project is to practice using information from multiple datab
 ### Process Overview
 Below is a visualization of how the databases are set up and related to each other.  This was used to answer several business intellegence questions that will be described below.
 
+![Diagram](https://github.com/kylejohnson363/Northwind/blob/master/Northwind_ERD.png)
+
 ### Question 1 - Do discounts increase quantity sold or revenue per order?
 - Discounts do increase the quantity sold per order but there is not a specific level of discount that is superior to others
 - Discounts in general do not increase revenue per order but a discount of 5% increases revenue per order by an amount that is basically neglidgible in practice.
