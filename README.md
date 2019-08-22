@@ -3,7 +3,7 @@ Hypothesis testing using data from a fictional company
 
 Kyle Johnson
 
-Please see the notebook titled "Student" for the full details and process.
+Please see the notebook titled "Northwind" for the full details and process.
 
 ### Project Motivation
 The purpose of this project is to practice using information from multiple databases to test several hypotheses regarding the fictional company Northwind Traders.  The dataset was created years ago by Microsoft in order to demonstrate the functionality of a new product they were marketing; the dataset has since been used in many courses regarding databasing and data science.  
