@@ -5,7 +5,7 @@ Kyle Johnson
 
 Please see the notebook titled "Northwind" for the full details and process.
 
-Blog post:https://kylejohnson363.github.io/northwind_traders_database_project
+Blog post:  https://kylejohnson363.github.io/northwind_traders_database_project
 
 ### Project Motivation
 The purpose of this project is to practice using information from multiple databases to test several hypotheses regarding the fictional company Northwind Traders.  The dataset was created years ago by Microsoft in order to demonstrate the functionality of a new product they were marketing; the dataset has since been used in many courses regarding databasing and data science.  
