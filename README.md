@@ -18,6 +18,9 @@ Below is a visualization of how the databases are set up and related to each oth
 ### Question 1 - Do discounts increase quantity sold or revenue per order?
 - Discounts do increase the quantity sold per order but there is not a specific level of discount that is superior to others
 - Discounts in general do not increase revenue per order but a discount of 5% increases revenue per order by an amount that is basically neglidgible in practice.
+
+![](https://github.com/kylejohnson363/updated-images/blob/master/Discounts.png?raw=true)
+The image above shows a distribution plot of the revenue of orders that have and do not have discounts.  As we can see, there is not a significant difference between the curves.
  
 ### Question 2 - Do discounts increase quantity sold or revenue per order on certain product groups?
 - Discounts increase quantity per order in the categories Condiments, Confections, Grains/Cereal and Produce.
