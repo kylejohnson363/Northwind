@@ -30,4 +30,6 @@ The image above shows a distribution plot of the revenue of orders that have and
 The main finding is that Northwind Traders should not offer discounts because they increase the quantity that they are sending to customers but do not increase teh revenue that they receive, meaning that they are lowering their profit margins.
 
 ### Further Inquiry
-I recommend that metrics on advertising and competition be obtained and studied in order to gain more useful insight for the company.
+- I recommend that metrics on advertising and competition be obtained and studied in order to gain more useful insight for the company.
+
+- Obtain more useful shipping data in otder to give more meaningful analysis of shipping costs.
