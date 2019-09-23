@@ -32,4 +32,4 @@ The main finding is that Northwind Traders should not offer discounts because th
 ### Further Inquiry
 - I recommend that metrics on advertising and competition be obtained and studied in order to gain more useful insight for the company.
 
-- Obtain more useful shipping data in otder to give more meaningful analysis of shipping costs.
+- Obtain more useful shipping data in order to give more meaningful analysis of shipping costs, such as distance traveled and time of delivery.
