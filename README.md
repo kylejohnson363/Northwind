@@ -1,5 +1,5 @@
 # Northwind
-Hypothesis testing using data from a fictional company
+Hypothesis testing using data from a fictional supply chain company
 
 Kyle Johnson
 
